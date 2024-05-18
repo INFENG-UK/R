@@ -11,5 +11,5 @@ managing Queries, Catalogue and Requirements for information.
 
 # Support
 
-This is a voluntary project to support the advancement of the United Kingdoms approach to information management.
+This is a voluntary project to support the advancement of the United Kingdom's approach to information management.
 All help and support welcome: web@infeng.co.uk
